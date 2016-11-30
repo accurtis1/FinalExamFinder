@@ -316,9 +316,4 @@ def finalExam():
         print("\nThe final exam for class "+name+" is on "+date+".")
         break
 
-    print(course_name)
-    print(course_credit)
-    print(course_days)
-    print(course_time)
-    print(course_AMPM)
 finalExam()
